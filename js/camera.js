@@ -1,0 +1,1 @@
+(function(){var a=function(b,a,c,d){this.x=b;this.y=a;this.w=c;this.h=d};a.prototype.setPosition=function(b,a){this.x=b;this.y=a};a.prototype.getScreenX=function(a){return Math.round(a-this.x+this.w/2)};a.prototype.getScreenY=function(a){return Math.round(a-this.y+this.h/2)};window.Camera=a})();

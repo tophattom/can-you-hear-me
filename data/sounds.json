@@ -1,0 +1,127 @@
+[
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 3,
+		"file": "sound/can-you-hear-me.wav",
+		"loop": false,
+		"gain": 1.2
+	},
+	{
+		"tileX": 6,
+		"tileY": 40,
+
+		"trigger": 3,
+		"file": "sound/noise-1.wav",
+		"loop": true,
+		"gain": 0.1
+	},
+	{
+		"tileX": 26,
+		"tileY": 14,
+
+		"trigger": 4,
+		"file": "sound/thank-god.wav",
+		"loop": false
+	},
+	{
+		"tileX": 26,
+		"tileY": 14,
+
+		"trigger": 5,
+		"file": "sound/who-are-you.wav",
+		"loop": false
+	},
+
+	{
+		"tileX": 22,
+		"tileY": 36,
+
+		"trigger": 3,
+		"file": "sound/engine.wav",
+		"loop": true
+	},
+	{
+		"tileX": 29,
+		"tileY": 47,
+
+		"trigger": 6,
+		"file": "sound/clang.wav",
+		"loop": false
+	},
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 7,
+		"file": "sound/come-quick.wav",
+		"loop": false
+	},
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 8,
+		"file": "sound/i-can-hear-you.wav",
+		"loop": false
+	},
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 9,
+		"file": "sound/another-way.wav",
+		"loop": false
+	},
+	{
+		"tileX": 10,
+		"tileY": 16,
+
+		"trigger": 3,
+		"file": "sound/water.wav",
+		"loop": true
+	},
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 10,
+		"file": "sound/water-dripping.wav",
+		"loop": false,
+		"gain": 2.5
+	},
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 11,
+		"file": "sound/almost-here.wav",
+		"loop": false,
+		"gain": 2
+	},
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 12,
+		"file": "sound/finaly.wav",
+		"loop": false
+	},
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 13,
+		"file": "sound/whistle.wav",
+		"loop": true
+	},
+	{
+		"tileX": 26,
+		"tileY": 13,
+
+		"trigger": 14,
+		"file": "sound/ending.wav",
+		"loop": false
+	}
+]
