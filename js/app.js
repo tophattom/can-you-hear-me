@@ -10,16 +10,6 @@
 	canvas.width = width;
 	canvas.height = height;
 
-
-	window.AudioContext = (
-		window.AudioContext ||
-		window.webkitAudioContext ||
-		null);
-
-	if (!AudioContext) {
-		throw new Error("AudioContext not supported!");
-	}
-
 	var audioCtx = new AudioContext(),
 		mainVolume = audioCtx.createGain();
 	
